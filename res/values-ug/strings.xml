@@ -426,23 +426,6 @@
     <string name="contributions_info_msg"><![CDATA[<b>جەمئىي تۆھپىكار سانى:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>جەمئىي تاپشۇرغىنى:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>ئاخىرقى يېڭىلاش:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">LineageOS ئىستاتىستىكىسى</string>
-    <string name="anonymous_statistics_summary">ئاتسىز ئىستاتىستىكا دوكلاتىنى ئېچىپ LineageOS نى ياخشىلاشقا ياردەم بېرىڭ</string>
-    <string name="anonymous_statistics_warning_title">ھەققىدە</string>
-    <string name="anonymous_statistics_warning">بۇ LineageOS ئىستاتىستىكىسىنى قوزغىتىپ شەخسىي ئۇچۇرلار بولمىغان سانلىق مەلۇماتنى
-         LineageOS ئىجادكارلىرىغا يوللاپ، ھەر خىل ئۈسكۈنىلەردىكى ئورنىتىشلارنى ئىزلاشقا قولايلىق يارىتىدۇ. يوللانغان ئۇچۇردا ئالاھىدە بىر بەلگە بولۇپ،
-         شەخسىيەت ۋە شەخسىي سانلىق مەلۇماتلارغا چېتىلمايدۇ. بۇ سانلىق مەلۇماتلار ھەر قېتىم قوزغالغاندا يوللىنىدۇ.\n\nيوللانغان سانلىق مەلۇماتنىڭ ئۈلگىسى سۈپىتىدە سانلىق مەلۇماتنى ئالدىن كۆزەتنى چېكىڭ.</string>
-    <string name="enable_reporting_title">دوكلاتنى قوزغات</string>
-    <string name="preview_data_title">سانلىق مەلۇماتنى ئالدىن كۆزەت</string>
-    <string name="view_stats_title">سىتاتىستىكىنى كۆرسەت</string>
-    <string name="anonymous_learn_more">تەپسىلات بىلدۈرگۈسى</string>
-    <string name="preview_id_title">بىردىنبىر كىملىك</string>
-    <string name="preview_device_title">ئۈسكۈنە</string>
-    <string name="preview_version_title">نەشرى</string>
-    <string name="preview_country_title">دۆلەت</string>
-    <string name="preview_carrier_title">مۇلازىمەت تەمىنلىگۈچى</string>
-    <string name="stats_collection_title">ئىستاتىستىكا توپلىمى</string>
-    <string name="stats_collection_summary">ئورنىتىش ئۆلچىمى ۋە ئۈسكۈنىنى ئىستاتىستىكا قىلىشقا يول قويىدۇ</string>
     <string name="accelerometer_title">ئېكراننى ئۆزلۈكىدىن ئايلاندۇر</string>
     <string name="display_rotation_title">ئايلاندۇرۇش تەڭشىكى</string>
     <string name="display_rotation_enabled">ئۆزلۈكىدىن ئايلاندۇرۇش قوزغىتىلغان</string>

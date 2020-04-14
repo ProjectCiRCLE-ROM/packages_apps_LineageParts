@@ -425,21 +425,6 @@
     <string name="contributions_info_msg"><![CDATA[<b>Contribuyentes totales:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Contribuciones totales:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Última actualización:</b> <xliff:g id="date">%3$s</xliff:g>>]]></string>
-    <string name="anonymous_statistics_title">Estadísticas LineageOS</string>
-    <string name="anonymous_statistics_summary">Ayuda a mejorar LineageOS mediante el envío anónimo de estadísticas</string>
-    <string name="anonymous_statistics_warning_title">Acerca de</string>
-    <string name="anonymous_statistics_warning">Al permitir la recopilación y el envío de estadísticas de LineageOS, autorizas el envío de información de carácter no personal a los desarrolladores de LineageOS para hacer un seguimiento de las instalaciones que realices en los dispositivos. La información enviada incluye un identificador único que no compromete tu privacidad ni tu información personal. Esta información es enviada durante el arranque.\n\nPara ver un ejemplo de la información enviada, toca en Previsualizar datos.</string>
-    <string name="enable_reporting_title">Activar envío de estadísticas</string>
-    <string name="preview_data_title">Previsualizar datos</string>
-    <string name="view_stats_title">Ver estadísticas</string>
-    <string name="anonymous_learn_more">Saber más</string>
-    <string name="preview_id_title">Identificador único</string>
-    <string name="preview_device_title">Dispositivo</string>
-    <string name="preview_version_title">Versión</string>
-    <string name="preview_country_title">País</string>
-    <string name="preview_carrier_title">Operador</string>
-    <string name="stats_collection_title">Recopilación de estadísticas</string>
-    <string name="stats_collection_summary">Permitir la recopilación de métricas de instalación y estadísticas del dispositivo</string>
     <string name="accelerometer_title">Girar pantalla automáticamente</string>
     <string name="display_rotation_title">Ajustes de rotación</string>
     <string name="display_rotation_enabled">Rotación automática activada</string>

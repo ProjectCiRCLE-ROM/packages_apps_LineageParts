@@ -426,23 +426,6 @@
     <string name="contributions_info_msg"><![CDATA[<b>Cəmi töhfə verənlər:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Cəmi daxil edilənlər:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Son güncəlləmə:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">LineageOS statistikaları</string>
-    <string name="anonymous_statistics_summary">Anonim statistika göndərməni tərcih edərək, LineageOS-u təkmilləşdirməyimizə kömək edin</string>
-    <string name="anonymous_statistics_warning_title">Haqqında</string>
-    <string name="anonymous_statistics_warning">LineageOS Statistikalarına daxil olmaqla, cihazlar arasındakı unikal quraşdırmaların
-        izlənilməsi üçün LineageOS-un gəlişdiricilərinə fərdi olmayan verilərin göndərilməsinə icazə veriləcək. Göndərilən məlumatlar, məxfiliyiniz və ya fərdi veriləriniz
-        üçün təhlükəli olmayan unikal bir identifikator ehtiva edir. Verilər, hər açlış zamanı göndərilir.\n\nGöndərilən verilərə nümunə olaraq \"Veriləri önizlə\"yə toxunun.</string>
-    <string name="enable_reporting_title">Hesabat göndərməni fəallaşdır</string>
-    <string name="preview_data_title">Veriləri önizlə</string>
-    <string name="view_stats_title">Statistikalara bax</string>
-    <string name="anonymous_learn_more">Ətraflı öyrən</string>
-    <string name="preview_id_title">Unikal kimlik</string>
-    <string name="preview_device_title">Cihaz</string>
-    <string name="preview_version_title">Versiya</string>
-    <string name="preview_country_title">Ölkə</string>
-    <string name="preview_carrier_title">Operator</string>
-    <string name="stats_collection_title">Statistikaların yığılması</string>
-    <string name="stats_collection_summary">Quraşdırma ölçülərinin və cihaz statistikalarının yığılmasına icazə ver</string>
     <string name="accelerometer_title">Ekranı avto-döndərmə</string>
     <string name="display_rotation_title">Döndərmə ayarları</string>
     <string name="display_rotation_enabled">Avto-döndərmə fəaldır</string>

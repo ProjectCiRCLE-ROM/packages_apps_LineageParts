@@ -426,21 +426,6 @@
     <string name="contributions_info_msg"><![CDATA[<b>Col·laboradors totals:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Aportacions totals:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Darrera actualització:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">Estadístiques de LineageOS</string>
-    <string name="anonymous_statistics_summary">Ajuda a fer millor LineageOS optant a transmetre estadístiques anònimes</string>
-    <string name="anonymous_statistics_warning_title">Quant a</string>
-    <string name="anonymous_statistics_warning">Optant a les estadístiques de LineageOS permetràs que dades no-personals siguin transmeses als desenvolupadors de LineageOS per rastrejar les instal·lacions individuals a través dels dispositius. La informació transmesa inclou un identificador únic, que no compromet la privacitat o les dades personals. Les dades son transmeses durant cada arrancada.\n\nPer un exemple de les dades transmeses, pica a vista prèvia de Dades.</string>
-    <string name="enable_reporting_title">Activa els informes</string>
-    <string name="preview_data_title">Vista prèvia de Dades</string>
-    <string name="view_stats_title">Veure estadístiques</string>
-    <string name="anonymous_learn_more">Aprèn més</string>
-    <string name="preview_id_title">ID únic</string>
-    <string name="preview_device_title">Dispositiu</string>
-    <string name="preview_version_title">Versió</string>
-    <string name="preview_country_title">País</string>
-    <string name="preview_carrier_title">Operadora</string>
-    <string name="stats_collection_title">Recollida d\'estadístiques</string>
-    <string name="stats_collection_summary">Permet recollir dades d\'instal·lació i estadístiques del dispositiu</string>
     <string name="accelerometer_title">Auto-rota la pantalla</string>
     <string name="display_rotation_title">Configuració de rotació</string>
     <string name="display_rotation_enabled">L\'auto-rotació està habilitada</string>

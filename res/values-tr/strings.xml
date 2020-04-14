@@ -422,23 +422,6 @@
     <string name="contributions_info_msg"><![CDATA[<b>Tüm katkı sağlayanlar:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Toplam girdi:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Son güncelleme:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">LineageOS istatistikleri</string>
-    <string name="anonymous_statistics_summary">Anonim istatistik raporlamayı tercih ederek LineageOS\'u daha iyi hale getirmeye yardımcı olun</string>
-    <string name="anonymous_statistics_warning_title">Hakkında</string>
-    <string name="anonymous_statistics_warning">LineageOS İstatistiklerine dahil olmak, cihazlar arasındaki benzersiz yüklemeleri izlemek için
-        LineageOS geliştiricilerine kişisel olmayan verilerin gönderilmesine izin verecektir. Gönderilen bilgiler, gizliliğinizi veya
-        kişisel verilerinizi tehlikeye atmayan benzersiz bir tanımlayıcıyı içerir. Veriler her önyükleme sırasında gönderilir.\n\nGönderilen verilere bir örnek için Verileri Önizle üzerine dokunun.</string>
-    <string name="enable_reporting_title">Raporlamayı etkinleştir</string>
-    <string name="preview_data_title">Veriyi önizle</string>
-    <string name="view_stats_title">İstatistikleri görüntüle</string>
-    <string name="anonymous_learn_more">Fazlasını öğren</string>
-    <string name="preview_id_title">Benzersiz ID</string>
-    <string name="preview_device_title">Cihaz</string>
-    <string name="preview_version_title">Sürüm</string>
-    <string name="preview_country_title">Ülke</string>
-    <string name="preview_carrier_title">Operatör</string>
-    <string name="stats_collection_title">İstatistikler</string>
-    <string name="stats_collection_summary">Yükleme ölçümlerinin ve cihaz istatistiklerinin toplanmasına izin ver</string>
     <string name="accelerometer_title">Ekranı otomatik döndür</string>
     <string name="display_rotation_title">Döndürme ayarları</string>
     <string name="display_rotation_enabled">Otomatik döndürme etkin</string>

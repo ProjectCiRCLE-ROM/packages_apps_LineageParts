@@ -386,21 +386,6 @@
     <string name="contributions_info_msg"><![CDATA[<b>Celkom prispievateľov:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Celkom príspevkov:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Posledná aktualizácia:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">Štatistiky LineageOS</string>
-    <string name="anonymous_statistics_summary">Pomôžte zlepšiť LineageOS povolením anonymných štatistických hlásení</string>
-    <string name="anonymous_statistics_warning_title">O</string>
-    <string name="anonymous_statistics_warning">Povolením štatistík LineageOS súhlasíte s odosielaním neosobných údajov vývojárom LineageOSu, za účelom evidencie jedinečných inštalácií naprieč všetkými zariadeniami. Informácie obsahujú unikátny identifikátor, ktorý neohrozuje vaše súkromné alebo osobné údaje. Údaje sú odoslané pri každom spustení.\n\nNa ukážku odosielaných údajov kliknite na Prehľad údajov.</string>
-    <string name="enable_reporting_title">Povoliť hlásenia</string>
-    <string name="preview_data_title">Prehľad údajov</string>
-    <string name="view_stats_title">Zobraziť štatistiky</string>
-    <string name="anonymous_learn_more">Zistiť viac</string>
-    <string name="preview_id_title">Unikátne ID</string>
-    <string name="preview_device_title">Zariadenie</string>
-    <string name="preview_version_title">Verzia</string>
-    <string name="preview_country_title">Krajina</string>
-    <string name="preview_carrier_title">Operátor</string>
-    <string name="stats_collection_title">Zbieranie štatistík</string>
-    <string name="stats_collection_summary">Povoliť zbierať metriky inštalácie a štatistík zariadenia</string>
     <string name="accelerometer_title">Automaticky otáčať obrazovku</string>
     <string name="display_rotation_title">Nastavenia otáčania</string>
     <string name="display_rotation_enabled">Automatické otáčanie je povolené</string>

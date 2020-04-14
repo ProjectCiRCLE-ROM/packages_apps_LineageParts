@@ -426,23 +426,6 @@
     <string name="contributions_info_msg"><![CDATA[<b>Skupaj sodelavcev:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Skupaj prispevkov:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Zadnja posodobitev:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">Statistika LineageOS</string>
-    <string name="anonymous_statistics_summary">Pomagajte izboljšati LineageOS tako, da izberete pošiljanje anonimne statistike</string>
-    <string name="anonymous_statistics_warning_title">O aplikaciji</string>
-    <string name="anonymous_statistics_warning">Izbira statistike LineageOS bo dovolila pošiljanje neosebnih podatkov
-        razvijalcem LineageOS-a, da lahko sledijo edinstvenim namestitvam v napravah. Poslani podatki vključujejo edinstven določilnik,
-        ki ne ogroža vaše zasebnosti in osebnih podatkov. Podatki so poslani ob vsakem zagonu.\n\nZa primer poslanih podatkov tapnite Predogled podatkov.</string>
-    <string name="enable_reporting_title">Omogoči poročanje</string>
-    <string name="preview_data_title">Predogled podatkov</string>
-    <string name="view_stats_title">Pokaži statistiko</string>
-    <string name="anonymous_learn_more">Več o tem</string>
-    <string name="preview_id_title">Edinstven ID</string>
-    <string name="preview_device_title">Naprava</string>
-    <string name="preview_version_title">Različica</string>
-    <string name="preview_country_title">Država</string>
-    <string name="preview_carrier_title">Ponudnik</string>
-    <string name="stats_collection_title">Zbiranje statistike</string>
-    <string name="stats_collection_summary">Dovoli zbiranje meritev in statistike naprave</string>
     <string name="accelerometer_title">Samodejno zasukaj zaslon</string>
     <string name="display_rotation_title">Nastavitve sukanja</string>
     <string name="display_rotation_enabled">Samodejno sukanje je omogočeno</string>

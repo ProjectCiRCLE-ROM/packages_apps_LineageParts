@@ -401,23 +401,6 @@
                  <b>Nick:</b> <xliff:g id="nick">%2$s</xliff:g><br/><br/>
                  <b>Forpligter sig:</b> <xliff:g id="commits">%3$s</xliff:g>]]></string>
     <string name="contributions_info_menu">Bidrag-info</string>
-    <string name="anonymous_statistics_title">LineageOS-statistikker</string>
-    <string name="anonymous_statistics_summary">Hjælp med at gøre LineageOS bedre, ved at deltage i anonym statistik-rapportering</string>
-    <string name="anonymous_statistics_warning_title">Om</string>
-    <string name="anonymous_statistics_warning">Deltagelse i LineageOS Statistikker vil tillade ikke-personlige data, at blive indsendt til
-        udviklerne af LineageOS, for at spore unikke installeringer, på tværs af enheder. Den indsendte information inkluderer en unik 
-        som ikke kompromitterer dit privatliv, eller personlige data. Dataene indsendes under hver opstart.\n\nTryk på Forhåndsvis Data, for et eksempel på de data, der indsendes.</string>
-    <string name="enable_reporting_title">Aktivér rapportering</string>
-    <string name="preview_data_title">Få vist data</string>
-    <string name="view_stats_title">Vis statistikker</string>
-    <string name="anonymous_learn_more">Lær mere</string>
-    <string name="preview_id_title">Unikt ID</string>
-    <string name="preview_device_title">Enhed</string>
-    <string name="preview_version_title">Version</string>
-    <string name="preview_country_title">Land</string>
-    <string name="preview_carrier_title">Operatør</string>
-    <string name="stats_collection_title">Indsamling af statistik</string>
-    <string name="stats_collection_summary">Tillad installationsdata og enhedsstatistik at blive indsamlet</string>
     <string name="accelerometer_title">Automatisk rotation af skærmen</string>
     <string name="display_rotation_title">Rotationsindstillinger</string>
     <string name="display_rotation_enabled">Auto-rotation er aktiveret</string>

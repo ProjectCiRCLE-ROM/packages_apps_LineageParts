@@ -421,23 +421,6 @@
     <string name="contributions_info_msg"><![CDATA[<b>Totale collaboratziones:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Totale contributos:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Ùrtima atualizatzione:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">Istatìsticas de LineageOS</string>
-    <string name="anonymous_statistics_summary">Agiuda a megiorare LineageOS permitende s\'imbiu de istatìsticas anònimas</string>
-    <string name="anonymous_statistics_warning_title">Informatziones</string>
-    <string name="anonymous_statistics_warning">Ativende is Istatìsticas LineageOS as a permìtere s\'imbiu de datos non personales a s\'iscuadra de isvilupu
-        pro contare su nùmeru de installatziones ùnicas in is dispositivos. S\'informatzione imbiada includet un\'identificadore ùnicu
-        chi non cumpromitet in nissuna manera sa riservadesa tua o is datos personales. Is datos s\'imbiant a cada aviu\n\nPro bìdere un\'esempru de datos imbiados, incarca Previsualizatzione datos.</string>
-    <string name="enable_reporting_title">Ativa is informes</string>
-    <string name="preview_data_title">Previsualizatzione de is datos</string>
-    <string name="view_stats_title">Mustra is istatìsticas</string>
-    <string name="anonymous_learn_more">Àteras informatziones</string>
-    <string name="preview_id_title">ID unìvocu</string>
-    <string name="preview_device_title">Dispositivu</string>
-    <string name="preview_version_title">Versione</string>
-    <string name="preview_country_title">Istadu</string>
-    <string name="preview_carrier_title">Operadore</string>
-    <string name="stats_collection_title">Regollida istatìsticas</string>
-    <string name="stats_collection_summary">Permite sa regollida de mètricas de installatzione e de istatìsticas de su dispositivu </string>
     <string name="accelerometer_title">Rotatzione automàtica de s\'ischermu</string>
     <string name="display_rotation_title">Cunfiguratziones de rotatzione</string>
     <string name="display_rotation_enabled">Rotatzione automàtica ativada</string>

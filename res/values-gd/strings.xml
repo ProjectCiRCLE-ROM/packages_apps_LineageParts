@@ -391,23 +391,6 @@
     <string name="contributions_info_msg"><![CDATA[<b>Com-pàirtichean iomlan:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Commits iomlan:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>An t-ùrachadh mu dheireadh:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">Stadastaireachd air LineageOS</string>
-    <string name="anonymous_statistics_summary">Cuidich leinn a thoirt piseach air LineageOS is tu a’ cur aithrisean stadastaireachd gun urra an comas</string>
-    <string name="anonymous_statistics_warning_title">Mu dhèidhinn</string>
-    <string name="anonymous_statistics_warning">Ma cheadaicheas tu gun cruinnich LineageOS stadastaireachd, thèid dàta neo-phearsanta a chur a-null gu
-        luchd-leasachaidh LineageOS airson stàlaidhean fa leth a thracadh thar uidheaman. Gabhaidh am fiosrachadh a thèid a chur a-null a-steach aithnichear àraidh
-        nach bris a-steach air do phrìobhaideachd no dàta phearsanta. Thèid an dàta a chur a-null gach turas a thèid an t-uidheam a bhùtadh.\n\nAirson ball-eisimpleir dhen dàta a thèid a chur a-null, thòir gnogag air “Ro-sheall an dàta”.</string>
-    <string name="enable_reporting_title">Cuir na h-aithrisean an comas</string>
-    <string name="preview_data_title">Ro-sheall an dàta</string>
-    <string name="view_stats_title">Seall an stadastaireachd</string>
-    <string name="anonymous_learn_more">Barrachd fiosrachaidh</string>
-    <string name="preview_id_title">Aithnichear àraidh</string>
-    <string name="preview_device_title">Uidheam</string>
-    <string name="preview_version_title">Tionndadh</string>
-    <string name="preview_country_title">Dùthaich</string>
-    <string name="preview_carrier_title">Giùlanair</string>
-    <string name="stats_collection_title">Cruinneachadh na stadastaireachd</string>
-    <string name="stats_collection_summary">Ceadaich gun dèid meatraigeachd is stadastaireachd an uidheim a chruinneachadh</string>
     <string name="accelerometer_title">Cuairtich an sgrìn gu fèin-obrachail</string>
     <string name="display_rotation_title">Roghainnean a’ chuairteachaidh</string>
     <string name="display_rotation_enabled">Tha an cuairteachadh fèin-obrachail an comas</string>

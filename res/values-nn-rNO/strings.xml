@@ -424,21 +424,6 @@
     <string name="contributions_info_msg"><![CDATA[<b>Bidragsytarar totalt:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Bidrag totalt:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Siste oppdatering:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">LineageOS-statistikk</string>
-    <string name="anonymous_statistics_summary">Hjelp til med å gjera LineageOS betre ved å senda inn anonym statistikk</string>
-    <string name="anonymous_statistics_warning_title">Om</string>
-    <string name="anonymous_statistics_warning">Ved å senda inn statistikk til LineageOS-utviklarane, gjev du dei løyve til å samla inn anonyme data for å telja installasjonar på ulike einingar. Informasjonen inneheld ein unik identifikator som ikkje går ut over personvernet eller personopplysningane dine. Data vert sende inn ved kvar oppstart.\n\nTrykk på «Førehandsvis data» for å sjå døme på kva som vert sendt.</string>
-    <string name="enable_reporting_title">Slå på rapportering</string>
-    <string name="preview_data_title">Førehandsvis data</string>
-    <string name="view_stats_title">Sjå statistikk</string>
-    <string name="anonymous_learn_more">Lær meir</string>
-    <string name="preview_id_title">Unik ID</string>
-    <string name="preview_device_title">Eining</string>
-    <string name="preview_version_title">Versjon</string>
-    <string name="preview_country_title">Land</string>
-    <string name="preview_carrier_title">Mobiloperatør</string>
-    <string name="stats_collection_title">Innsamling av statistikk</string>
-    <string name="stats_collection_summary">Tillat innsamling av statistikk om installasjonar og einingar</string>
     <string name="accelerometer_title">Roter skjermen automatisk</string>
     <string name="display_rotation_title">Innstillingar for rotering</string>
     <string name="display_rotation_enabled">Automatisk rotering er på</string>

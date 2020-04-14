@@ -260,15 +260,6 @@
     <string name="network_traffic_show_units_on">Rmed</string>
     <string name="protected_apps_manager_title">Isnasen immestnen</string>
     <string name="contributors_cloud_fragment_title">Iwiziwen</string>
-    <string name="anonymous_statistics_title">Tiddadanin n LineageOS</string>
-    <string name="anonymous_statistics_warning_title">Awal ɣef...</string>
-    <string name="view_stats_title">Wali tidaddanin</string>
-    <string name="anonymous_learn_more">Issin ugar</string>
-    <string name="preview_id_title">Asulay asuf</string>
-    <string name="preview_device_title">Ibenk</string>
-    <string name="preview_version_title">Lqem</string>
-    <string name="preview_country_title">Tamurt</string>
-    <string name="stats_collection_title">Ajmaɛ n tidaddanin</string>
     <string name="display_rotation_unit">tifesniwin</string>
     <string name="display_rotation_category_title">Iskaren n tuzzya</string>
     <string name="display_rotation_0_title">0 n tifesniwin</string>

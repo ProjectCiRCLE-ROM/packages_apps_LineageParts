@@ -421,23 +421,6 @@
     <string name="contributions_info_msg"><![CDATA[<b>მონაწილე ჯამში:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>შეტანილი წვლილი ჯამში:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>ბოლო განახლება:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">LineageOS-ის სტატისტიკა</string>
-    <string name="anonymous_statistics_summary">დაგვეხმარეთ, რომ გავაუმჯობესოთ LineageOS, ვინაობის გაუმხელი მონაცემების აღრიცხვაში ჩართვით</string>
-    <string name="anonymous_statistics_warning_title">შესახებ</string>
-    <string name="anonymous_statistics_warning">LineageOS-სტატისტიკაში ჩართვით, პირადი ინფორმაციისგან გამიჯნული მონაცემები გაეგზავნება
-        LineageOS-ის შემმუშავებლებს, თითოეული დაყენების აღსარიცხად მოწყობილობებზე. ეს მონაცემები შეიცავს სხვებისგან გამოსარჩევ ნიშანს,
-        რომლითაც არ მჟღავნდება თქვენი ვინაობა ან პირადი ინფორმაცია. მონაცემები გაიგზავნება ყოველი ჩართვისას.\n\nმაგალითის სანახავად, თუ რა სახისაა ეს ინფორმაცია, შეეხეთ „მონაცემთა შეთვალიერებას“.</string>
-    <string name="enable_reporting_title">ანგარიშგების ჩართვა</string>
-    <string name="preview_data_title">მონაცემების შეთვალიერება</string>
-    <string name="view_stats_title">სტატისტიკის ნახვა</string>
-    <string name="anonymous_learn_more">იხილეთ ვრცლად</string>
-    <string name="preview_id_title">გამოსარჩევი ნიშანი</string>
-    <string name="preview_device_title">მოწყობილობა</string>
-    <string name="preview_version_title">ვერსია</string>
-    <string name="preview_country_title">ქვეყანა</string>
-    <string name="preview_carrier_title">ოპერატორი</string>
-    <string name="stats_collection_title">სტატისტიკური აღრიცხვა</string>
-    <string name="stats_collection_summary">ნებართვა, რომ აღირიცხოს დაყენების რაოდენობა და მოწყობილობის სტატისტიკა</string>
     <string name="accelerometer_title">ეკრანის თვითშებრუნება</string>
     <string name="display_rotation_title">შებრუნების პარამეტრები</string>
     <string name="display_rotation_enabled">თვითშებრუნება ჩართულია</string>

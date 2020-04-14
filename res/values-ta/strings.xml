@@ -317,9 +317,6 @@
     <string name="contributors_cloud_loading_message">பங்களிப்பாளர் தரவு ஏற்றுகின்றது\u2026</string>
     <string name="contributor_info_menu">பங்களிப்பாளர் தகவல்</string>
     <string name="contributions_info_menu">பங்களிப்புத் தகவல்</string>
-    <string name="anonymous_statistics_title">LineageOS புள்ளிவிவரங்கள்</string>
-    <string name="anonymous_statistics_warning_title">அறிமுகம்</string>
-    <string name="preview_country_title">நாடு</string>
     <string name="display_rotation_0_title">0 பாகைகள்</string>
     <string name="display_rotation_90_title">90 பாகைகள்</string>
     <string name="display_rotation_180_title">180 பாகைகள்</string>

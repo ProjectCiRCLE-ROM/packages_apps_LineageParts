@@ -426,23 +426,6 @@
     <string name="contributions_info_msg"><![CDATA[<b>Iomlán ranníocóirí:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Tiomnaíonn tiomáintí:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Nuashonrú is déanaí:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">Staitisticí LineageOS</string>
-    <string name="anonymous_statistics_summary">Cabhraigh le LineageOS a dhéanamh níos fearr trí leas a bhaint as tuairisciú staitisticí gan ainm</string>
-    <string name="anonymous_statistics_warning_title">Maidir</string>
-    <string name="anonymous_statistics_warning">Ceadófar sonraí neamhphearsanta a chur isteach chuig an bPríomh-Staidreamh i LineageOS
-        forbróirí LineageOS chun suiteálacha uathúla a rianú thar fheistí. Áirítear san fhaisnéis a cuireadh isteach aitheantóir uathúil,
-        nach ndéanann dochar do phríobháideachas nó do shonraí pearsanta. Cuirtear na sonraí isteach le linn gach tosaithe.\n\nChun sampla de na sonraí a chuirtear isteach, tapáil ar Sonraí Réamhamhairc.</string>
-    <string name="enable_reporting_title">Cumasaigh tuairisciú</string>
-    <string name="preview_data_title">Sonraí réamhamhairc</string>
-    <string name="view_stats_title">Féach ar staitisticí</string>
-    <string name="anonymous_learn_more">Foghlaim níos mó</string>
-    <string name="preview_id_title">Aitheantas uathúil</string>
-    <string name="preview_device_title">Gléas</string>
-    <string name="preview_version_title">Leagan</string>
-    <string name="preview_country_title">Tír</string>
-    <string name="preview_carrier_title">Iompróir</string>
-    <string name="stats_collection_title">Bailiúchán staitisticí</string>
-    <string name="stats_collection_summary">Ceadaigh méadracht suiteála agus staitisticí gléas a bhailiú</string>
     <string name="accelerometer_title">Uath-rothlú scáileán</string>
     <string name="display_rotation_title">Socruithe rothlaithe</string>
     <string name="display_rotation_enabled">Tá uath-uainíocht cumasaithe</string>

@@ -383,21 +383,6 @@
     <string name="contributions_info_msg"><![CDATA[<b>إجمالي المساهمين:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  إجمالي الالتزامات:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>آخر تحديث:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">إحصائيات نظام LineageOS</string>
-    <string name="anonymous_statistics_summary">ساهم في جعل LineageOS أفضل بإرسال تقارير الإحصائيات</string>
-    <string name="anonymous_statistics_warning_title">حول</string>
-    <string name="anonymous_statistics_warning">بالموافقة على المشاركة في إحصائيات LineageOS سيسمح بإرسال البيانات غير الشخصية إلى مطوري LineageOS لتعقب الإصدارات المثبتة على مختلف الأجهزة كلٍ على حدة. وتشمل المعلومات المقدمة معرفًا فريدًا من نوعه، وبالتالي لا تتعرض خصوصيتك أو بياناتك الشخصية للخطر. تُرسل البيانات عند التشغيل في كل مرة.\n\n للإطلاع على مثال للبيانات التي يتم إرسالها، اضغط على معاينة البيانات.</string>
-    <string name="enable_reporting_title">تفعيل إرسال التقارير</string>
-    <string name="preview_data_title">معاينة البيانات</string>
-    <string name="view_stats_title">عرض الإحصائيات</string>
-    <string name="anonymous_learn_more">معرفة المزيد</string>
-    <string name="preview_id_title">المعرف الفريد</string>
-    <string name="preview_device_title">الجهاز</string>
-    <string name="preview_version_title">الإصدار</string>
-    <string name="preview_country_title">البلد</string>
-    <string name="preview_carrier_title">شركة المحمول</string>
-    <string name="stats_collection_title">جمع الإحصائيات</string>
-    <string name="stats_collection_summary">السماح بجمع إحصاءات التثبيت و إحصائيات الجهاز</string>
     <string name="accelerometer_title">التدوير التلقائي للشاشة</string>
     <string name="display_rotation_title">إعدادات التدوير</string>
     <string name="display_rotation_enabled">التدوير التلقائي مُفعل</string>

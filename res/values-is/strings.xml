@@ -398,22 +398,6 @@
     <string name="contributors_cloud_failed_message">Gat ekki hlaðið inn upplýsingum um framlög</string>
     <string name="contributor_info_menu">Upplýsingar um þátttakanda</string>
     <string name="contributions_info_menu">Upplýsingar um framlög</string>
-    <string name="anonymous_statistics_title">Tölfræði LineageOS</string>
-    <string name="anonymous_statistics_summary">Hjálpaðu okkur við að gera LineageOS betra með því að skrá þig í að senda nafnlausa notkunartölfræði</string>
-    <string name="anonymous_statistics_warning_title">Um hugbúnaðinn</string>
-    <string name="anonymous_statistics_warning">Ef tekið er þátt í tölfræðisöfnun LineageOS er gefið leyfi til að sendar séu ópresónugreinanleg gögn til forritara LineageOS til að fylgjast með einstökum uppsetningum á mismunandi tækjum. Meðal upplýsinganna sem sendar eru inn er einstakt auðkenni,
-        sem þó skerðir ekki friðhelgi persónulegra gagna. Gögnin eru send inn í hverri ræsingu.\n\nTil að sjá dæmi um hverskyns gögn er verið að senda, skaltu ýta á forskoðun gagna.</string>
-    <string name="enable_reporting_title">Virkja sendingu skýrslna</string>
-    <string name="preview_data_title">Forskoðun gagna</string>
-    <string name="view_stats_title">Skoða tölfræði</string>
-    <string name="anonymous_learn_more">Kanna nánar</string>
-    <string name="preview_id_title">Einstakt auðkenni (ID)</string>
-    <string name="preview_device_title">Tæki</string>
-    <string name="preview_version_title">Útgáfa</string>
-    <string name="preview_country_title">Land</string>
-    <string name="preview_carrier_title">Símafyrirtæki</string>
-    <string name="stats_collection_title">Söfnun tölfræði</string>
-    <string name="stats_collection_summary">Leyfa söfnun upplýsinga um uppsetningu og tölfræði tækisins</string>
     <string name="accelerometer_title">Snúa skjánum sjálfvirkt</string>
     <string name="display_rotation_title">Stillingar á snúningi</string>
     <string name="display_rotation_enabled">Sjálfvirkur snúningur er virkur</string>

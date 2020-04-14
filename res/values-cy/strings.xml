@@ -418,21 +418,6 @@
     <string name="contributions_info_msg"><![CDATA[<b>Nifer cyfranwyr:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Nifer o gyfraniadau (commits):</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Diweddariad diwethaf:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">Ystadegau LineageOS</string>
-    <string name="anonymous_statistics_summary">Helpu i wella LineageOS gan ganiatáu casglu adroddiadau ystadegau anhysbys</string>
-    <string name="anonymous_statistics_warning_title">Ynghylch</string>
-    <string name="anonymous_statistics_warning">Bydd cytuno i rannu Ystadegau LineageOS yn caniatáu data na sydd yn bersonol i gael ei rannu gyda datblygwyr LineageOS er mwyn tracio gosodiadau unigryw ar draws dyfeisiau. Bydd y wybodaeth a rennir yn cynnwys dynodwr unigryw i\'w adnabod heb gyfaddawdu dy breifatrwydd na dy ddata personol. Caiff y data ei rannu pob tro mae\'r system yn dechrau.\n\nI weld enghraifft o\'r data sy\'n cael ei rannu, tapia Rhagolwg Data.</string>
-    <string name="enable_reporting_title">Caniatáu adroddiadau</string>
-    <string name="preview_data_title">Rhagolwg o\'r data</string>
-    <string name="view_stats_title">Gweld ystadegau</string>
-    <string name="anonymous_learn_more">Dysgu rhagor</string>
-    <string name="preview_id_title">ID unigryw</string>
-    <string name="preview_device_title">Dyfais</string>
-    <string name="preview_version_title">Fersiwn</string>
-    <string name="preview_country_title">Gwlad</string>
-    <string name="preview_carrier_title">Darparwr gwasanaeth</string>
-    <string name="stats_collection_title">Casglu ystadegau</string>
-    <string name="stats_collection_summary">Caniatáu casglu mesuryddion gosodiadau ac ystadegau\'r ddyfais</string>
     <string name="accelerometer_title">Troi\'r sgrin yn awtomatig</string>
     <string name="display_rotation_title">Gosodiadau cylchdroi</string>
     <string name="display_rotation_enabled">Mae cylchdroi yn awtomatig wedi\'i alluogi</string>
