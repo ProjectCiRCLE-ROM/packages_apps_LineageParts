@@ -29,18 +29,36 @@
         android:key="charging_sounds_category"
         android:title="@string/charging_sounds_notification_category_title" >
 
-        <Preference
-            android:key="charging_sounds"
-            android:title="@string/wired_charging_sounds_title"
-            android:dependency="charging_sounds_enabled"
-            android:persistent="false" />
-
         <lineageos.preference.SelfRemovingPreference
             android:key="wireless_charging_sounds"
             android:title="@string/wireless_charging_sounds_title"
             android:dependency="charging_sounds_enabled"
             android:persistent="false"
             lineage:requiresConfig="@*lineageos.platform:bool/config_deviceSupportsWirelessCharging" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="conditional_charging_sounds_category"
+        android:title="@string/conditional_charging_sounds_category_title" >
+
+        <Preference
+            android:key="charging_sound_low"
+            android:title="@string/charging_sound_low_title"
+            android:dependency="charging_sounds_enabled"
+            android:persistent="false" />
+
+        <Preference
+            android:key="charging_sound_medium"
+            android:title="@string/charging_sound_medium_title"
+            android:dependency="charging_sounds_enabled"
+            android:persistent="false" />
+
+        <Preference
+            android:key="charging_sound_high"
+            android:title="@string/charging_sound_high_title"
+            android:dependency="charging_sounds_enabled"
+            android:persistent="false" />
 
     </PreferenceCategory>
 
